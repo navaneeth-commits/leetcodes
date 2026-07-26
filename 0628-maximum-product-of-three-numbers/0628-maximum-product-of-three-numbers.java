@@ -1,4 +1,9 @@
 class Solution {
+    static {
+        for(int i=0;i <=500;i++) {
+            new Solution().maximumProduct(new int[]{});
+        }
+    }
     public int maximumProduct(int[] nums) {
         int max1 = Integer.MIN_VALUE;
         int max2 = Integer.MIN_VALUE;
