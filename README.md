@@ -28,4 +28,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0196-delete-duplicate-emails](https://github.com/navaneeth-commits/leetcodes/tree/main/0196-delete-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
