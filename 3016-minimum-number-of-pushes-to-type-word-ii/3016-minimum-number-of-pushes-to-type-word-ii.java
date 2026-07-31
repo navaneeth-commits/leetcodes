@@ -9,22 +9,22 @@ class Solution {
         }
         Arrays.sort(freq);
         int cost=0;
-        int rank = 1;
+        int ind = 1;
         for (int i = 25; i >= 0; i--) {
             if (freq[i] == 0)
                 break;
             int pushes;
-            if (rank <= 8) {
+            if (ind <= 8) {
                 pushes = 1;
-            } else if (rank <= 16) {
+            } else if (ind <= 16) {
                 pushes = 2;
-            } else if (rank <= 24) {
+            } else if (ind <= 24) {
                 pushes = 3;
             } else {
                 pushes = 4;
             }
             cost += freq[i] * pushes;
-            rank++;
+            ind++;
         }
         return cost;
     }
