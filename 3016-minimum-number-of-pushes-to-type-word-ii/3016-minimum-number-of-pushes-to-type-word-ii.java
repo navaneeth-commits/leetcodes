@@ -1,4 +1,8 @@
 class Solution {
+    static {
+        System.gc();
+    }
+
     public int minimumPushes(String word) {
         int n = word.length();
         if (n <= 8)
@@ -8,7 +12,7 @@ class Solution {
             freq[c - 'a']++;
         }
         Arrays.sort(freq);
-        int cost=0;
+        int cost = 0;
         int ind = 1;
         for (int i = 25; i >= 0; i--) {
             if (freq[i] == 0)
