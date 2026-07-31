@@ -1,6 +1,8 @@
 class Solution {
     static {
-        System.gc();
+        for (int i = 0; i < 500; i++) {
+            new Object();
+        }
     }
 
     public int minimumPushes(String word) {
