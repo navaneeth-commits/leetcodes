@@ -1,9 +1,9 @@
 class Solution {
-    // static {
-    //     for (int i = 0; i < 500; i++) {
-    //         new Object();
-    //     }
-    // }
+    static {
+        for (int i = 0; i < 500; i++) {
+            new Object();
+        }
+    }
 
     public int minimumPushes(String word) {
         int n = word.length();
