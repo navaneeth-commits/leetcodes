@@ -10,21 +10,29 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head==null) return null;
-        ArrayList<Integer> arr=new ArrayList<>();
-        ListNode temp=head;
-        while(temp!=null){
-            arr.add(temp.val);
-            temp=temp.next;
+        int n = 0;
+        ListNode temp = head;
+        while (temp != null) {
+            n++;
+            temp = temp.next;
         }
-        Collections.sort(arr);
-        int n=arr.size();
-        ListNode ans=new ListNode(arr.get(0));
-        ListNode res=ans;
-        for(int i=1;i<n;i++){
-            res.next=new ListNode(arr.get(i));
-            res=res.next;
+
+        int[] arr = new int[n];
+
+        temp = head;
+        for (int i = 0; i < n; i++) {
+            arr[i] = temp.val;
+            temp = temp.next;
         }
-        return ans;
+
+        Arrays.sort(arr);
+
+        temp = head;
+        for (int x : arr) {
+            temp.val = x;
+            temp = temp.next;
+        }
+
+        return head;
     }
 }
