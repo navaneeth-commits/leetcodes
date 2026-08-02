@@ -1,7 +1,7 @@
 class Solution {
     static {
         for (int i = 0; i < 500; i++) {
-            Math.sqrt(i);
+            new Solution();
         }
     }
 
