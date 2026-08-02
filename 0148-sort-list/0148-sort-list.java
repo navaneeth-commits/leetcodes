@@ -14,31 +14,37 @@ class Solution {
             new Solution();
         }
     }
-
     public ListNode sortList(ListNode head) {
-        int n = 0;
-        ListNode temp = head;
-        while (temp != null) {
-            n++;
-            temp = temp.next;
+        if(head==null || head.next==null) return head;
+        ListNode fast=head;
+        ListNode slow=head;
+        ListNode prev=null;
+        while(fast!=null && fast.next!=null){
+            prev=slow;
+            slow=slow.next;
+            fast=fast.next.next;
         }
-
-        int[] arr = new int[n];
-
-        temp = head;
-        for (int i = 0; i < n; i++) {
-            arr[i] = temp.val;
-            temp = temp.next;
+        prev.next=null;
+        ListNode left=sortList(head);
+        ListNode right=sortList(slow);
+        return mergeTwoLists(left,right);
+    }
+     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode cur = new ListNode();
+        ListNode temp=cur;
+        while (list1 != null && list2 != null) {
+            if (list1.val >= list2.val) {
+                cur.next = list2;
+                list2 = list2.next;
+                cur = cur.next;
+            } else {
+                cur.next = list1;
+                list1 = list1.next;
+                cur = cur.next;
+            }
         }
-
-        Arrays.sort(arr);
-
-        temp = head;
-        for (int x : arr) {
-            temp.val = x;
-            temp = temp.next;
-        }
-
-        return head;
+        if(list1!=null)cur.next=list1;
+        else cur.next=list2;
+        return temp.next;
     }
 }
