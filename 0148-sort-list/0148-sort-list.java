@@ -8,43 +8,46 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution{
     static {
-        for (int i = 0; i < 500; i++) {
-            new Solution();
-        }
+        for (int i = 0; i < 500; i++) sortList(null);
     }
-    public ListNode sortList(ListNode head) {
-        if(head==null || head.next==null) return head;
-        ListNode fast=head;
-        ListNode slow=head;
-        ListNode prev=null;
-        while(fast!=null && fast.next!=null){
-            prev=slow;
-            slow=slow.next;
-            fast=fast.next.next;
+    
+    public static ListNode sortList(ListNode head) 
+    {
+        if (head == null || head.next == null) return head;
+
+        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE;
+
+        ListNode temp = head;
+
+        while (temp != null) {
+            max = Math.max(max, temp.val);
+            min = Math.min(min, temp.val);
+            temp = temp.next;
         }
-        prev.next=null;
-        ListNode left=sortList(head);
-        ListNode right=sortList(slow);
-        return mergeTwoLists(left,right);
-    }
-     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode cur = new ListNode();
-        ListNode temp=cur;
-        while (list1 != null && list2 != null) {
-            if (list1.val >= list2.val) {
-                cur.next = list2;
-                list2 = list2.next;
-                cur = cur.next;
-            } else {
-                cur.next = list1;
-                list1 = list1.next;
-                cur = cur.next;
+
+        int c = max - min + 1;
+        int[] f = new int[c];
+
+        temp = head;
+
+        while (temp != null) {
+            f[temp.val - min]++;
+            temp = temp.next;
+        }
+
+        temp = head;
+
+        for (int i = 0; i < c; i++) {
+            while (f[i] != 0) {
+                temp.val = i + min;
+                temp = temp.next;
+                f[i]--;
             }
         }
-        if(list1!=null)cur.next=list1;
-        else cur.next=list2;
-        return temp.next;
+
+        return head;
     }
 }
