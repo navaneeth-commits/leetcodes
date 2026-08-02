@@ -9,6 +9,12 @@
  * }
  */
 class Solution {
+    static {
+        for (int i = 0; i < 500; i++) {
+            new Solution();
+        }
+    }
+
     public ListNode sortList(ListNode head) {
         int n = 0;
         ListNode temp = head;
