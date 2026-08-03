@@ -1,16 +1,23 @@
-
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        HashSet<Character> setS = new HashSet<>();
-        HashSet<Character> setT = new HashSet<>();
-        HashSet<String> pairs = new HashSet<>();
+        HashMap<Character,Integer> charIndexS=new HashMap<>();
+        HashMap<Character,Integer> charIndexT=new HashMap<>();
 
-        for (int i = 0; i < s.length(); i++) {
-            setS.add(s.charAt(i));
-            setT.add(t.charAt(i));
-            pairs.add(s.charAt(i) + "#" + t.charAt(i));
+        for(int i=0; i<s.length();i++){
+            char ss=s.charAt(i);
+            char tt=t.charAt(i);
+            if(!charIndexS.containsKey(ss)){
+                charIndexS.put(ss,i);
+            }
+            if(!charIndexT.containsKey(tt)){
+                charIndexT.put(tt,i);
+            }
+
+            if(!charIndexS.get(ss).equals(charIndexT.get(tt))){
+                return false;
+            }
         }
-
-        return setS.size() == setT.size() && setT.size() == pairs.size();
+        return true;
+        
     }
 }
