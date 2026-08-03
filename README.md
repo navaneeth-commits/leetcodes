@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/navaneeth-commits/leetcodes/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0136-single-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/navaneeth-commits/leetcodes/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0912-sort-an-array/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/navaneeth-commits/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/navaneeth-commits/leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -71,10 +73,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/navaneeth-commits/leetcodes/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/navaneeth-commits/leetcodes/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
