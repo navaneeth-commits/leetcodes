@@ -1,9 +1,9 @@
 class Solution {
-    static {
-        for(int i=0;i<500;i++){
-            new Solution();
-        }
-    }
+    // static {
+    //     for(int i=0;i<500;i++){
+    //         new Solution();
+    //     }
+    // }
     public boolean isIsomorphic(String s, String t) {
         HashMap<Character, Character> mapST = new HashMap<>();
         HashMap<Character, Character> mapTS = new HashMap<>();
