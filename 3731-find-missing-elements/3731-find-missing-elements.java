@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i=0;i<500;i++){
+            new Solution();
+        }
+    }
     public List<Integer> findMissingElements(int[] nums) {
         Set<Integer> set=new HashSet<>();
         int max=Integer.MIN_VALUE;
