@@ -1,9 +1,9 @@
 class Solution {
-    static {
-        for(int i=0;i<500;i++){
-            new Solution();
-        }
-    }
+    // static {
+    //     for(int i=0;i<500;i++){
+    //         new Solution();
+    //     }
+    // }
     public int eraseOverlapIntervals(int[][] intervals) {
         int res=0;
         Arrays.sort(intervals,(a,b)->a[1]-b[1]);
