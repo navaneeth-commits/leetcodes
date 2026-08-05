@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0042-trapping-rain-water](https://github.com/navaneeth-commits/leetcodes/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/navaneeth-commits/leetcodes/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/navaneeth-commits/leetcodes/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0136-single-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/navaneeth-commits/leetcodes/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/navaneeth-commits/leetcodes/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0136-single-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -158,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/navaneeth-commits/leetcodes/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
