@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0070-climbing-stairs/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneeth-commits/leetcodes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/navaneeth-commits/leetcodes/tree/main/0042-trapping-rain-water/) | Hard |
+| [0070-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0070-climbing-stairs/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/navaneeth-commits/leetcodes/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -152,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/navaneeth-commits/leetcodes/tree/main/0455-assign-cookies/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
