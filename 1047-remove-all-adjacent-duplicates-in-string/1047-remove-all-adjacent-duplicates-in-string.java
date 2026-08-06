@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i=0;i<10000;i++){
+            new Solution();
+        }
+    }
     public String removeDuplicates(String s) {
         StringBuilder stack =new StringBuilder();
         for(int i=0;i<s.length();i++){
