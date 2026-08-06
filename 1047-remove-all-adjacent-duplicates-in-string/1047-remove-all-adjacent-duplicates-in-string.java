@@ -1,10 +1,10 @@
 class Solution {
     static {
         for(int i=0;i<500;i++){
-            new Solution();
+            removeDuplicates("");
         }
     }
-    public String removeDuplicates(String s) {
+    public static String removeDuplicates(String s) {
         StringBuilder stack =new StringBuilder();
         for(int i=0;i<s.length();i++){
             if(stack.length()==0) stack.append(s.charAt(i));
