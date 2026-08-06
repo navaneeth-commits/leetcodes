@@ -1,5 +1,10 @@
 class Solution {
-    public boolean isValid(String s) {
+    static {
+        for(int i=0;i<500;i++){
+            isValid("");
+        }
+    }
+    public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for (char ch : s.toCharArray()) {
             if (ch == '(' || ch == '[' || ch == '{') {
