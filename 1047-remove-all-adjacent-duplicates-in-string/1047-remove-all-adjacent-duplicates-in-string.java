@@ -1,18 +1,21 @@
 class Solution {
-    static{
-        for(int i=0;i<500;i++){
-            new Solution();
-        }
-    }
     public String removeDuplicates(String s) {
-        StringBuilder stack =new StringBuilder();
+        Stack<Character> stack=new Stack<>();
         for(int i=0;i<s.length();i++){
-            if(stack.length()==0) stack.append(s.charAt(i));
-            else if(stack.length()!=0){
-                if(stack.charAt(stack.length()-1)==s.charAt(i)) stack.deleteCharAt(stack.length()-1);
-                else stack.append(s.charAt(i));
+            if(!stack.isEmpty()){
+                if(stack.peek()==s.charAt(i)){
+                    stack.pop();
+                }else{
+                    stack.push(s.charAt(i));
+                }
+            }else{
+                stack.push(s.charAt(i));
             }
         }
-        return stack.toString();
+        String res="";
+        for(char a:stack){
+            res=res+a;
+        }
+        return res;
     }
 }
