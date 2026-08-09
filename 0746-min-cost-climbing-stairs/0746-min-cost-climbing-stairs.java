@@ -1,15 +1,15 @@
 class Solution {
     static{
         for(int i=0;i<500;i++){
-            new Solution();
+            minCostClimbingStairs(new int[]{});
         }
     }
-    public int minCostClimbingStairs(int[] cost) {
+    public static int minCostClimbingStairs(int[] cost) {
         int[] dp=new int[cost.length+1];
         Arrays.fill(dp,-1);
         return Math.min(mincost(cost,0,dp),mincost(cost,1,dp));
     }
-    public int mincost(int[] cost,int i,int[] dp){
+    public static int mincost(int[] cost,int i,int[] dp){
         if(i>=cost.length){
             return 0;
         }
