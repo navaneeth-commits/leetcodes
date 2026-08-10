@@ -2,7 +2,7 @@ class Solution {
     public int rob(int[] nums) {
         int[] dp=new int[nums.length];
         Arrays.fill(dp,-1);
-        return Math.max(solve(nums,dp,0),solve(nums,dp,1));
+        return solve(nums,dp,0);
 
     }
     public int solve(int[] nums,int[] dp,int i){
