@@ -1,14 +1,16 @@
 class Solution {
     public int uniquePaths(int m, int n) {
-        int total = m + n - 2;
-        int k = Math.min(m - 1, n - 1);
 
-        long result = 1;
+        int numer = m + n - 2;
+        int denom = Math.max(m - 1, n - 1);
+        int other = Math.min(m - 1, n - 1);
 
-        for (int i = 1; i <= k; i++) {
-            result = result * (total - k + i) / i;
+        long ans = 1;
+
+        for (int i = 1; i <= other; i++) {
+            ans = ans * (denom + i) / i;
         }
 
-        return (int) result;
+        return (int) ans;
     }
 }
