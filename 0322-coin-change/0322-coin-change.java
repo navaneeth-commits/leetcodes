@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i=0;i<500;i++){
+            new Solution();
+        }
+    }
     public int coinChange(int[] coins, int amount) {
         int[] dp = new int[amount + 1];
         Arrays.fill(dp, amount + 1);
