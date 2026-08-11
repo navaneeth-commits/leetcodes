@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/navaneeth-commits/leetcodes/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navaneeth-commits/leetcodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneeth-commits/leetcodes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navaneeth-commits/leetcodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3731-find-missing-elements](https://github.com/navaneeth-commits/leetcodes/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/navaneeth-commits/leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navaneeth-commits/leetcodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/navaneeth-commits/leetcodes/tree/main/3731-find-missing-elements/) | Easy |
 ## Heap (Priority Queue)
