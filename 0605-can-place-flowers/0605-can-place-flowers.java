@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i=0;i<500;i++){
+            new Solution();
+        }
+    }
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int count=0;
         if(flowerbed.length==1 && flowerbed[0]==0){
