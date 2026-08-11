@@ -1,13 +1,6 @@
 class Solution {
     public int missingInteger(int[] nums) {
-        Set<Integer> set = new HashSet<>();
-
-        for (int x : nums) {
-            set.add(x);
-        }
-
-        int sum = nums[0];
-
+        int sum=nums[0];
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] == nums[i - 1] + 1) {
                 sum += nums[i];
@@ -15,10 +8,18 @@ class Solution {
                 break;
             }
         }
-        while (set.contains(sum)) {
+        while (true) {
+            boolean found = false;
+            for (int x : nums) {
+                if (x == sum) {
+                    found = true;
+                    break;
+                }
+            }
+            if (!found)
+                return sum;
+
             sum++;
         }
-
-        return sum;
     }
 }
