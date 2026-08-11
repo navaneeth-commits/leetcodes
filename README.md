@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/0002-add-two-numbers/) | Medium |
 | [0062-unique-paths](https://github.com/navaneeth-commits/leetcodes/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0509-fibonacci-number/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/0002-add-two-numbers/) | Medium |
 | [0148-sort-list](https://github.com/navaneeth-commits/leetcodes/tree/main/0148-sort-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
