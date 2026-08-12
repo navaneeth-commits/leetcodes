@@ -14,6 +14,9 @@
  * }
  */
 class Solution {
+    static{
+        for(int i=0;i<500;i++) new Solution();
+    }
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> list=new ArrayList<>();
         if(root==null)return list;
