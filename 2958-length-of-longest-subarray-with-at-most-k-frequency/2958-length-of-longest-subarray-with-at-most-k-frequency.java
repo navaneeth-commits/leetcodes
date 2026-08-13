@@ -1,10 +1,10 @@
 class Solution {
     static{
         for(int i=0;i<500;i++){
-            new Solution();
+            maxSubarrayLength(new int[]{},0);
         }
     }
-    public int maxSubarrayLength(int[] nums, int k) {
+    public static int maxSubarrayLength(int[] nums, int k) {
         int n=nums.length;
         HashMap<Integer,Integer> map=new HashMap<>();
         int i=0;
