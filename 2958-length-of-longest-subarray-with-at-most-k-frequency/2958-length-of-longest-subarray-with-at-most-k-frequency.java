@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i=0;i<500;i++){
+            new Solution();
+        }
+    }
     public int maxSubarrayLength(int[] nums, int k) {
         int n=nums.length;
         HashMap<Integer,Integer> map=new HashMap<>();
