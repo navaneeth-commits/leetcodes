@@ -33,9 +33,9 @@ class Solution {
             i--;
             j--;
         }
-        res.append(carry);
+        //res.append(carry);
         res=res.reverse();
-        if(res.charAt(0)=='0')res.deleteCharAt(0);
+        //if(res.charAt(0)=='0')res.deleteCharAt(0);
         return res.toString();
     }
 }
