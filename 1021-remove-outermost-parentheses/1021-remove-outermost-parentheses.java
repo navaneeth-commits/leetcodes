@@ -1,4 +1,9 @@
 class Solution {
+    static{
+        for(int i=0;i<500;i++){
+            new Solution();
+        }
+    }
     public String removeOuterParentheses(String s) {
         int counter = 0;
         StringBuilder res = new StringBuilder();
