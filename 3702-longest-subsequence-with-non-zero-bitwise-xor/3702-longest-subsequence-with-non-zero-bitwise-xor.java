@@ -1,10 +1,10 @@
 class Solution {
     static{
         for(int i=0;i<500;i++){
-            new Solution();
+            longestSubsequence(new int[]{0});
         }
     }
-    public int longestSubsequence(int[] nums) {
+    public static int longestSubsequence(int[] nums) {
         int n=nums.length;
         int xor=0;
         int count=0;
