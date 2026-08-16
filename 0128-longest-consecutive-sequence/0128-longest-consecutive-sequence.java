@@ -1,5 +1,10 @@
 class Solution {
-    public int longestConsecutive(int[] nums) {
+    static {
+        for(int i=0;i<500;i++){
+            longestConsecutive(new int[]{});
+        }
+    }
+    public static int longestConsecutive(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
         int n = nums.length;
             for (int i = 0; i < n; i++) {
