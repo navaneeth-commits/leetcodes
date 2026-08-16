@@ -1,10 +1,11 @@
 class Solution {
     public void rotate(int[][] matrix) {
-        int left=0;
-        int right=matrix[0].length-1;
         int top=0;
+        int left=0;
         int bottom=matrix.length-1;
-        while(left<right && top<bottom){
+        int right=bottom;
+        while(top<=bottom && left<=right){
+
             for(int i=0;i<right-left;i++){
                 int temp=matrix[top][left+i];
                 matrix[top][left+i]=matrix[bottom-i][left];
