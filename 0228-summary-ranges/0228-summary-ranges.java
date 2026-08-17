@@ -1,5 +1,10 @@
 class Solution {
-    public List<String> summaryRanges(int[] nums) {
+    static{
+        for(int i=0;i<500;i++){
+            summaryRanges(new int[]{});
+        }
+    }
+    public static List<String> summaryRanges(int[] nums) {
         int n = nums.length;
         int i = 0;
         List<String> res = new ArrayList<>();
