@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/navaneeth-commits/leetcodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/navaneeth-commits/leetcodes/tree/main/0198-house-robber/) | Medium |
+| [0228-summary-ranges](https://github.com/navaneeth-commits/leetcodes/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/navaneeth-commits/leetcodes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/navaneeth-commits/leetcodes/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
