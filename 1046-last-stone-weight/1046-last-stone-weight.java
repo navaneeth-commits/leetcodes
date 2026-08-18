@@ -2,6 +2,7 @@ class Solution {
     static{
         for(int i=0;i<500;i++){
             lastStoneWeight(new int[]{0});
+            new Solution();
         }
     }
     public static int lastStoneWeight(int[] stones) {
