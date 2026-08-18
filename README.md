@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/navaneeth-commits/leetcodes/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/navaneeth-commits/leetcodes/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/navaneeth-commits/leetcodes/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/navaneeth-commits/leetcodes/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/navaneeth-commits/leetcodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navaneeth-commits/leetcodes/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -299,4 +300,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/navaneeth-commits/leetcodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/navaneeth-commits/leetcodes/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/navaneeth-commits/leetcodes/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
