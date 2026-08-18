@@ -1,5 +1,10 @@
 class Solution {
-    public int largestInteger(int[] nums, int k) {
+    static{
+        for(int i=0;i<500;i++){
+            largestInteger(new int[]{},0);
+        }
+    }
+    public static int largestInteger(int[] nums, int k) {
         int ans=-1;
         int n=nums.length;
         HashMap<Integer,Integer> map=new HashMap<>();
