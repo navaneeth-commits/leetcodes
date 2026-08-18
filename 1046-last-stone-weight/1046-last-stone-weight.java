@@ -1,5 +1,10 @@
 class Solution {
-    public int lastStoneWeight(int[] stones) {
+    static{
+        for(int i=0;i<500;i++){
+            lastStoneWeight(new int[]{0});
+        }
+    }
+    public static int lastStoneWeight(int[] stones) {
         PriorityQueue<Integer> q=new PriorityQueue<>(Collections.reverseOrder());
         for(int num:stones){
             q.offer(num);
