@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/navaneeth-commits/leetcodes/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/navaneeth-commits/leetcodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/navaneeth-commits/leetcodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/navaneeth-commits/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/navaneeth-commits/leetcodes/tree/main/0242-valid-anagram/) | Easy |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/navaneeth-commits/leetcodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/navaneeth-commits/leetcodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/navaneeth-commits/leetcodes/tree/main/0067-add-binary/) | Easy |
 | [0091-decode-ways](https://github.com/navaneeth-commits/leetcodes/tree/main/0091-decode-ways/) | Medium |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/navaneeth-commits/leetcodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navaneeth-commits/leetcodes/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/navaneeth-commits/leetcodes/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Matrix
