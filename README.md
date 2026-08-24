@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/navaneeth-commits/leetcodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navaneeth-commits/leetcodes/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/navaneeth-commits/leetcodes/tree/main/0067-add-binary/) | Easy |
+| [1929-concatenation-of-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Union-Find
