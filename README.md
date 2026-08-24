@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/navaneeth-commits/leetcodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/navaneeth-commits/leetcodes/tree/main/0198-house-robber/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/navaneeth-commits/leetcodes/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/navaneeth-commits/leetcodes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/navaneeth-commits/leetcodes/tree/main/0322-coin-change/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/navaneeth-commits/leetcodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/navaneeth-commits/leetcodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0205-isomorphic-strings](https://github.com/navaneeth-commits/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/navaneeth-commits/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/navaneeth-commits/leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/navaneeth-commits/leetcodes/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navaneeth-commits/leetcodes/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/navaneeth-commits/leetcodes/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Matrix
