@@ -1,19 +1,17 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        HashSet<Integer> set=new HashSet<>();
-        for(int x:nums){
-            set.add(x);
-        }
-        int j=k;
-        int i=2;
-        while(true){
-            if(set.contains(j)){
-                j=k*i;
-                i++;
-            }else{
-                return j;
+        for(int multiple=k;;multiple+=k){
+            boolean found=false;
+            for(int i=0;i<nums.length;i++){
+                if(nums[i]==multiple){
+                    found=true;
+                    break;
+                }
+            }
+            if(!found){
+            return multiple;
             }
         }
-        //return k;
+        
     }
 }
