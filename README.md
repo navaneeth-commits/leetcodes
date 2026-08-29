@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/navaneeth-commits/leetcodes/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/navaneeth-commits/leetcodes/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/navaneeth-commits/leetcodes/tree/main/0078-subsets/) | Medium |
+| [0118-pascals-triangle](https://github.com/navaneeth-commits/leetcodes/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/navaneeth-commits/leetcodes/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/navaneeth-commits/leetcodes/tree/main/0198-house-robber/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/navaneeth-commits/leetcodes/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/navaneeth-commits/leetcodes/tree/main/0091-decode-ways/) | Medium |
+| [0118-pascals-triangle](https://github.com/navaneeth-commits/leetcodes/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/navaneeth-commits/leetcodes/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/navaneeth-commits/leetcodes/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/navaneeth-commits/leetcodes/tree/main/0435-non-overlapping-intervals/) | Medium |
