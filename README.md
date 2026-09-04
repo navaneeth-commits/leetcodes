@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3731-find-missing-elements](https://github.com/navaneeth-commits/leetcodes/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/navaneeth-commits/leetcodes/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
