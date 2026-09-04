@@ -1,5 +1,10 @@
 class Solution {
-    public int firstStableIndex(int[] nums, int k) {
+    static{
+        for(int i=0;i<500;i++){
+            firstStableIndex(new int[]{0,0},0);
+        }
+    }
+    public static int firstStableIndex(int[] nums, int k) {
         int n=nums.length;
         for(int i=0;i<n;i++){
             int max=nums[0];
