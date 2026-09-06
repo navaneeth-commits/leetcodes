@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/navaneeth-commits/leetcodes/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/navaneeth-commits/leetcodes/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/navaneeth-commits/leetcodes/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/navaneeth-commits/leetcodes/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0198-house-robber](https://github.com/navaneeth-commits/leetcodes/tree/main/0198-house-robber/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/navaneeth-commits/leetcodes/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/navaneeth-commits/leetcodes/tree/main/0067-add-binary/) | Easy |
 | [0091-decode-ways](https://github.com/navaneeth-commits/leetcodes/tree/main/0091-decode-ways/) | Medium |
+| [0115-distinct-subsequences](https://github.com/navaneeth-commits/leetcodes/tree/main/0115-distinct-subsequences/) | Hard |
 | [0205-isomorphic-strings](https://github.com/navaneeth-commits/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/navaneeth-commits/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/navaneeth-commits/leetcodes/tree/main/0290-word-pattern/) | Easy |
