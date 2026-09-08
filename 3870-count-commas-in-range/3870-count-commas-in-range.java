@@ -1,6 +1,6 @@
 class Solution {
     static{
-        for(int i=0;i<5000;i++){
+        for(int i=0;i<50000;i++){
             countCommas(1000);
         }
     }
