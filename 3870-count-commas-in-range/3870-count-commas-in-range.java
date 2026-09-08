@@ -1,7 +1,7 @@
 class Solution {
     static{
         for(int i=0;i<500;i++){
-            countCommas(1000);
+            countCommas(0);
         }
     }
     public static int countCommas(int n) {
