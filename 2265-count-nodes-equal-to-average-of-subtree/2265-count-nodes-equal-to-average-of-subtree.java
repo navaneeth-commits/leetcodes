@@ -25,7 +25,7 @@ class Solution {
         int[] right=dfs(node.right);
         int sum=left[0]+right[0]+node.val;
         int count=left[1]+right[1]+1;
-        if(sum/count==node.val)ans++;
+        if(sum/count ==node.val )ans++;
         return new int[]{sum,count};
     }
 }
