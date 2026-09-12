@@ -1,15 +1,16 @@
 class Solution {
-    static {
-        for(int i = 0; i < 500; i++){
-            longestOnes(new int[]{}, 0);
+    public int longestOnes(int[] nums, int k) {
+        int n=nums.length;
+        int left=0;
+        int max=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==0)k--;
+            while(k<0){
+                if(nums[left]==0)k++;
+                left++;
+            }
+            max=Math.max(max,i-left+1);
         }
-    }
-    public static int longestOnes(int[] nums, int k) {
-        int i=0,j;
-        for(j=0;j<nums.length;++j){
-            if(nums[j]==0)k--;
-            if(k<0 && nums[i++]==0)k++;
-        }
-        return j-i;
+        return max;
     }
 }
