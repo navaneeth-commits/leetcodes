@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/navaneeth-commits/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/navaneeth-commits/leetcodes/tree/main/0290-word-pattern/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navaneeth-commits/leetcodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0796-rotate-string](https://github.com/navaneeth-commits/leetcodes/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/navaneeth-commits/leetcodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navaneeth-commits/leetcodes/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
@@ -414,4 +415,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/navaneeth-commits/leetcodes/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/navaneeth-commits/leetcodes/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
