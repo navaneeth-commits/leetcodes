@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/navaneeth-commits/leetcodes/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/navaneeth-commits/leetcodes/tree/main/0455-assign-cookies/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/navaneeth-commits/leetcodes/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/navaneeth-commits/leetcodes/tree/main/0605-can-place-flowers/) | Easy |
