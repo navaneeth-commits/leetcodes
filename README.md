@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/navaneeth-commits/leetcodes/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/navaneeth-commits/leetcodes/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/navaneeth-commits/leetcodes/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/navaneeth-commits/leetcodes/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/navaneeth-commits/leetcodes/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/navaneeth-commits/leetcodes/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/navaneeth-commits/leetcodes/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/navaneeth-commits/leetcodes/tree/main/0148-sort-list/) | Medium |
+| [0283-move-zeroes](https://github.com/navaneeth-commits/leetcodes/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/navaneeth-commits/leetcodes/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navaneeth-commits/leetcodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
