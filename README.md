@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/navaneeth-commits/leetcodes/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/navaneeth-commits/leetcodes/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/navaneeth-commits/leetcodes/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/navaneeth-commits/leetcodes/tree/main/0322-coin-change/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/navaneeth-commits/leetcodes/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/navaneeth-commits/leetcodes/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/navaneeth-commits/leetcodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/navaneeth-commits/leetcodes/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/navaneeth-commits/leetcodes/tree/main/0148-sort-list/) | Medium |
 | [0191-number-of-1-bits](https://github.com/navaneeth-commits/leetcodes/tree/main/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/navaneeth-commits/leetcodes/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/navaneeth-commits/leetcodes/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
