@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/navaneeth-commits/leetcodes/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/navaneeth-commits/leetcodes/tree/main/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/navaneeth-commits/leetcodes/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/navaneeth-commits/leetcodes/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/navaneeth-commits/leetcodes/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navaneeth-commits/leetcodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/navaneeth-commits/leetcodes/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/navaneeth-commits/leetcodes/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/navaneeth-commits/leetcodes/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/navaneeth-commits/leetcodes/tree/main/0344-reverse-string/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navaneeth-commits/leetcodes/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/navaneeth-commits/leetcodes/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/navaneeth-commits/leetcodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
