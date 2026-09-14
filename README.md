@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/navaneeth-commits/leetcodes/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/navaneeth-commits/leetcodes/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navaneeth-commits/leetcodes/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -434,4 +435,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/navaneeth-commits/leetcodes/tree/main/0796-rotate-string/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/navaneeth-commits/leetcodes/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
