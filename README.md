@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navaneeth-commits/leetcodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3254-find-the-power-of-k-size-subarrays-i/) | Medium |
+| [3379-transformed-array](https://github.com/navaneeth-commits/leetcodes/tree/main/3379-transformed-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/navaneeth-commits/leetcodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3583-count-special-triplets](https://github.com/navaneeth-commits/leetcodes/tree/main/3583-count-special-triplets/) | Medium |
@@ -411,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3379-transformed-array](https://github.com/navaneeth-commits/leetcodes/tree/main/3379-transformed-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
