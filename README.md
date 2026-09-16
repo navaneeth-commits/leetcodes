@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0196-delete-duplicate-emails](https://github.com/navaneeth-commits/leetcodes/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [1407-top-travellers](https://github.com/navaneeth-commits/leetcodes/tree/main/1407-top-travellers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
