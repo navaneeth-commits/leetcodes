@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/navaneeth-commits/leetcodes/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0867-transpose-matrix](https://github.com/navaneeth-commits/leetcodes/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/navaneeth-commits/leetcodes/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/navaneeth-commits/leetcodes/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/navaneeth-commits/leetcodes/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -398,11 +399,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/navaneeth-commits/leetcodes/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/navaneeth-commits/leetcodes/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0867-transpose-matrix](https://github.com/navaneeth-commits/leetcodes/tree/main/0867-transpose-matrix/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/navaneeth-commits/leetcodes/tree/main/0067-add-binary/) | Easy |
+| [0867-transpose-matrix](https://github.com/navaneeth-commits/leetcodes/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
