@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/navaneeth-commits/leetcodes/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/navaneeth-commits/leetcodes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/navaneeth-commits/leetcodes/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navaneeth-commits/leetcodes/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/navaneeth-commits/leetcodes/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/navaneeth-commits/leetcodes/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/navaneeth-commits/leetcodes/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/navaneeth-commits/leetcodes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navaneeth-commits/leetcodes/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navaneeth-commits/leetcodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0912-sort-an-array/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/navaneeth-commits/leetcodes/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3583-count-special-triplets](https://github.com/navaneeth-commits/leetcodes/tree/main/3583-count-special-triplets/) | Medium |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/navaneeth-commits/leetcodes/tree/main/0881-boats-to-save-people/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/navaneeth-commits/leetcodes/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/navaneeth-commits/leetcodes/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/navaneeth-commits/leetcodes/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
