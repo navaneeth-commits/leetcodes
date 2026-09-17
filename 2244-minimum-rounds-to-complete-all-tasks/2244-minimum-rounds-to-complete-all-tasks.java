@@ -1,14 +1,19 @@
 class Solution {
     public int minimumRounds(int[] tasks) {
-        Map<Integer,Integer> map=new HashMap<>();
-        for(int i:tasks){
-            map.put(i,map.getOrDefault(i,0)+1);
-        }
+        Arrays.sort(tasks);
         int res=0;
-        for(int freq:map.values()){
-            if(freq==1)return -1;
-            res+=(freq%3==0)?freq/3:freq/3 +1;
+        int count=1;
+        for(int i=1;i<tasks.length;i++){
+            if(tasks[i]==tasks[i-1]){
+                count++;
+            }else{
+                if(count==1)return -1;
+                res+=(count+2)/3;
+                count=1;
+            }
         }
+        if(count==1)return -1;
+        res+=(count+2)/3;
         return res;
     }
 }
