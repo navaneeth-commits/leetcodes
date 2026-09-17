@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/navaneeth-commits/leetcodes/tree/main/0836-rectangle-overlap/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/navaneeth-commits/leetcodes/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/navaneeth-commits/leetcodes/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navaneeth-commits/leetcodes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneeth-commits/leetcodes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/navaneeth-commits/leetcodes/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/navaneeth-commits/leetcodes/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navaneeth-commits/leetcodes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/navaneeth-commits/leetcodes/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/navaneeth-commits/leetcodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navaneeth-commits/leetcodes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/navaneeth-commits/leetcodes/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -342,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/navaneeth-commits/leetcodes/tree/main/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/navaneeth-commits/leetcodes/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
