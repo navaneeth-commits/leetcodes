@@ -16,7 +16,6 @@ class Solution {
             head=head.next;
             temp.next=node;
             node=temp;
-            
         }
         return node;
     }
