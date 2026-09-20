@@ -229,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/navaneeth-commits/leetcodes/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/navaneeth-commits/leetcodes/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/navaneeth-commits/leetcodes/tree/main/3379-transformed-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/navaneeth-commits/leetcodes/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
