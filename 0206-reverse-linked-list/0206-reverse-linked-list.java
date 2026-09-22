@@ -14,7 +14,7 @@ class Solution {
         while(head!=null){
             ListNode temp=head.next;
             head.next=node;
-            node=head;
+            node =head;
             head=temp;
         }
         return node;
