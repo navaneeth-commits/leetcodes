@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0605-can-place-flowers](https://github.com/navaneeth-commits/leetcodes/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0704-binary-search](https://github.com/navaneeth-commits/leetcodes/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/navaneeth-commits/leetcodes/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/navaneeth-commits/leetcodes/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/navaneeth-commits/leetcodes/tree/main/0867-transpose-matrix/) | Easy |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/navaneeth-commits/leetcodes/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/navaneeth-commits/leetcodes/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0704-binary-search](https://github.com/navaneeth-commits/leetcodes/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/navaneeth-commits/leetcodes/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/navaneeth-commits/leetcodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
