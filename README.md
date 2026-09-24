@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/navaneeth-commits/leetcodes/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/navaneeth-commits/leetcodes/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/navaneeth-commits/leetcodes/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/navaneeth-commits/leetcodes/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/navaneeth-commits/leetcodes/tree/main/3379-transformed-array/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/navaneeth-commits/leetcodes/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/navaneeth-commits/leetcodes/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/navaneeth-commits/leetcodes/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3583-count-special-triplets](https://github.com/navaneeth-commits/leetcodes/tree/main/3583-count-special-triplets/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/navaneeth-commits/leetcodes/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/navaneeth-commits/leetcodes/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
