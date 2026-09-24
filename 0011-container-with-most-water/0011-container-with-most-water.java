@@ -1,20 +1,16 @@
 class Solution {
-    static{
-        for(int i=0;i<5000;i++){
-            maxArea(new int[]{0,0});
-        }
-    }
-    public static int maxArea(int[] height) {
-        int n=height.length;
-        int left=0,right=n-1,maxarea=0;
+    public int maxArea(int[] height) {
+        int left=0,leftmax=height[0];
+        int right=height.length-1,rightmax=height[right];
+        int max=0;
         while(left<right){
-            maxarea=Math.max(maxarea,(right-left)*Math.min(height[left],height[right]));
+            max=Math.max(max,(right-left)*Math.min(height[left],height[right]));
             if(height[left]<height[right]){
                 left++;
             }else{
                 right--;
             }
         }
-        return maxarea;
+        return max;
     }
 }
