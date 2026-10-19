@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-boats-to-save-people](https://github.com/navaneeth-commits/leetcodes/tree/main/0881-boats-to-save-people/) | Medium |
 | [0912-sort-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/navaneeth-commits/leetcodes/tree/main/2587-rearrange-array-to-maximize-prefix-score/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navaneeth-commits/leetcodes/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/navaneeth-commits/leetcodes/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1929-concatenation-of-array](https://github.com/navaneeth-commits/leetcodes/tree/main/1929-concatenation-of-array/) | Easy |
 | [2022-convert-1d-array-into-2d-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/navaneeth-commits/leetcodes/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/navaneeth-commits/leetcodes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/navaneeth-commits/leetcodes/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/navaneeth-commits/leetcodes/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/navaneeth-commits/leetcodes/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
