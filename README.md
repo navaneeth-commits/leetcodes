@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/navaneeth-commits/leetcodes/tree/main/0496-next-greater-element-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/navaneeth-commits/leetcodes/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/navaneeth-commits/leetcodes/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/navaneeth-commits/leetcodes/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/navaneeth-commits/leetcodes/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/navaneeth-commits/leetcodes/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navaneeth-commits/leetcodes/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -237,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0796-rotate-string](https://github.com/navaneeth-commits/leetcodes/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/navaneeth-commits/leetcodes/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navaneeth-commits/leetcodes/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/navaneeth-commits/leetcodes/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2055-plates-between-candles](https://github.com/navaneeth-commits/leetcodes/tree/main/2055-plates-between-candles/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/navaneeth-commits/leetcodes/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/navaneeth-commits/leetcodes/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
